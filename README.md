@@ -1,2 +1,2 @@
 # reciepe-app-api
-Recipe API Practice Project while enrolled in Udemy Course
+Recipe API Project is a demonstration project for clean code and stadardized coding
